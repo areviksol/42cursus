@@ -1,0 +1,1 @@
+in the ideal world you dhould just setup the .the env file and run Docker compose, we'll get there
